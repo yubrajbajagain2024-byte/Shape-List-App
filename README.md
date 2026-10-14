@@ -19,31 +19,31 @@ The application represents shapes **as text entries rather than drawing geometri
 
 ### Main Application Window
 
-![Shape Manager main window](screenshots/01-empty-window.png)
+![Shape Manager main window] (screenshots/main-window.png)
 
 ### Circle Area
 
-Circle with radius **7.0** — area **153.94**.
+Circle
 
-![Circle area calculation](screenshots/02-circle-area.png)
+![Circle area calculation](screenshots/circle-area.png)
 
 ### Square Area
 
-Square with side **4.0** — area **16.00**.
+Square
 
-![Square area calculation](screenshots/03-square-area.png)
+![Square area calculation](screenshots/square-area.png)
 
 ### Rectangle Area
 
-Rectangle with width **3.0** and height **4.0** — area **12.00**.
+Rectangle
 
-![Rectangle area calculation](screenshots/04-rectangle-area.png)
+![Rectangle area calculation](screenshots/rectangle-area.png)
 
 ### Shape List
 
 Circle, Square, Rectangle, and Triangle entries displayed together.
 
-![List containing all four shape types](screenshots/05-all-four-shapes.png)
+![List containing all four shape types](screenshots/all-four-shapes.png)
 
 ## Project Structure
 
